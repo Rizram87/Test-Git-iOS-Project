@@ -14,6 +14,7 @@
 		1F56A4A819F501E1005D18E8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F56A4A719F501E1005D18E8 /* Images.xcassets */; };
 		1F56A4AB19F501E1005D18E8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F56A4A919F501E1005D18E8 /* LaunchScreen.xib */; };
 		1F56A4B719F501E1005D18E8 /* Git_TestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F56A4B619F501E1005D18E8 /* Git_TestTests.m */; };
+		1F56A4C219F50E0F005D18E8 /* RRTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F56A4C119F50E0F005D18E8 /* RRTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		1F56A4B019F501E1005D18E8 /* Git TestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Git TestTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F56A4B519F501E1005D18E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1F56A4B619F501E1005D18E8 /* Git_TestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Git_TestTests.m; sourceTree = "<group>"; };
+		1F56A4C019F50E0F005D18E8 /* RRTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RRTest.h; sourceTree = "<group>"; };
+		1F56A4C119F50E0F005D18E8 /* RRTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RRTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				1F56A49F19F501E1005D18E8 /* AppDelegate.m */,
 				1F56A4A119F501E1005D18E8 /* ViewController.h */,
 				1F56A4A219F501E1005D18E8 /* ViewController.m */,
+				1F56A4C019F50E0F005D18E8 /* RRTest.h */,
+				1F56A4C119F50E0F005D18E8 /* RRTest.m */,
 				1F56A4A419F501E1005D18E8 /* Main.storyboard */,
 				1F56A4A719F501E1005D18E8 /* Images.xcassets */,
 				1F56A4A919F501E1005D18E8 /* LaunchScreen.xib */,
@@ -222,6 +227,7 @@
 				1F56A4A319F501E1005D18E8 /* ViewController.m in Sources */,
 				1F56A4A019F501E1005D18E8 /* AppDelegate.m in Sources */,
 				1F56A49D19F501E1005D18E8 /* main.m in Sources */,
+				1F56A4C219F50E0F005D18E8 /* RRTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
